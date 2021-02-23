@@ -32,4 +32,4 @@ App also opens a little console for monitoring the process with viewed-recieved 
 * [C#](https://docs.microsoft.com/tr-tr/dotnet/csharp/) - For obvious reasons.
 ## Last Words
 
-Feel free the get mess with this and contact me ❤️
+Feel free the get mess with it and contact with me ❤️
